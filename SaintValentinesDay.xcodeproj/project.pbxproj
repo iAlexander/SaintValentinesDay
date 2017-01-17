@@ -317,6 +317,7 @@
 				2ACF6D8C1E2E939800349BDB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2ACF6D8E1E2E939800349BDB /* Build configuration list for PBXNativeTarget "SaintValentinesDay" */ = {
 			isa = XCConfigurationList;
@@ -325,6 +326,7 @@
 				2ACF6D901E2E939800349BDB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

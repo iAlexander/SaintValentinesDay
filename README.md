@@ -4,8 +4,6 @@
 [![Version](https://img.shields.io/badge/App version-2.0-blue.svg?style=flat")](https://ialexander.me/2fYVNbX)
 [![AppStore](https://img.shields.io/badge/App Store-Free-brightgreen.svg?style=flat")](https://ialexander.me/2e3ZYpi)
 
-[![Saint Valentine's Day - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/iHalloween/master/Header.jpg)](https://ialexander.me/2e3ZYpi)
-
 ## Saint Valentine's Day - bundle of stickers for iMessage chats, available on <a href="https://ialexander.me/2e3ZYpi">App Store</a>
 1. [Description](#description)
 3. [License](#license)
