@@ -1,7 +1,7 @@
 [![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat")](https://ialexander.me/2fYVNbX)
 [![Platform](https://img.shields.io/badge/Platform-iOS 10.0 | iMessage-lightgray.svg?style=flat")](https://ialexander.me/2fYVNbX)
 [![Devices](https://img.shields.io/badge/Devices-iPhone | iPad-DAA522.svg?style=flat")](https://ialexander.me/2fYVNbX)
-[![Version](https://img.shields.io/badge/App version-2.0-blue.svg?style=flat")](https://ialexander.me/2fYVNbX)
+[![Version](https://img.shields.io/badge/App version-1.0-blue.svg?style=flat")](https://ialexander.me/2fYVNbX)
 [![AppStore](https://img.shields.io/badge/App Store-Free-brightgreen.svg?style=flat")](https://ialexander.me/2e3ZYpi)
 
 ## Saint Valentine's Day - bundle of stickers for iMessage chats, available on <a href="https://ialexander.me/2e3ZYpi">App Store</a>
@@ -12,7 +12,7 @@
 ##<a name="description"> Description: </a>
 
 Prepare your iPhone to be ready for the best Saint Valentine's Day ever...  
-iOS stickers pack ```Saint Valentine's Day``` is the great bundle of stickers for iMessage, that includes ...
+iOS stickers pack ```Saint Valentine's Day``` is the great bundle of stickers for iMessage, that includes 100 great lovely pictures...
 
 ##<a name="license"> License: </a>
 

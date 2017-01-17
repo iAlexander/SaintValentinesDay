@@ -1,4 +1,306 @@
 {
+  "stickers" : [
+    {
+      "filename" : "wine-glass.sticker"
+    },
+    {
+      "filename" : "roses.sticker"
+    },
+    {
+      "filename" : "balloon.sticker"
+    },
+    {
+      "filename" : "bed.sticker"
+    },
+    {
+      "filename" : "birds.sticker"
+    },
+    {
+      "filename" : "bow-and-arrow.sticker"
+    },
+    {
+      "filename" : "bow-tie.sticker"
+    },
+    {
+      "filename" : "boxers.sticker"
+    },
+    {
+      "filename" : "hot-air-balloon.sticker"
+    },
+    {
+      "filename" : "brain.sticker"
+    },
+    {
+      "filename" : "broken-heart.sticker"
+    },
+    {
+      "filename" : "butterfly.sticker"
+    },
+    {
+      "filename" : "cake-1.sticker"
+    },
+    {
+      "filename" : "candles.sticker"
+    },
+    {
+      "filename" : "candy.sticker"
+    },
+    {
+      "filename" : "champagne.sticker"
+    },
+    {
+      "filename" : "chemistry.sticker"
+    },
+    {
+      "filename" : "chocolate-box.sticker"
+    },
+    {
+      "filename" : "clapperboard.sticker"
+    },
+    {
+      "filename" : "cloud.sticker"
+    },
+    {
+      "filename" : "coffee.sticker"
+    },
+    {
+      "filename" : "cupcake.sticker"
+    },
+    {
+      "filename" : "devil.sticker"
+    },
+    {
+      "filename" : "diamond.sticker"
+    },
+    {
+      "filename" : "diary.sticker"
+    },
+    {
+      "filename" : "dish.sticker"
+    },
+    {
+      "filename" : "drinks.sticker"
+    },
+    {
+      "filename" : "earphones.sticker"
+    },
+    {
+      "filename" : "emoticon.sticker"
+    },
+    {
+      "filename" : "female.sticker"
+    },
+    {
+      "filename" : "flower.sticker"
+    },
+    {
+      "filename" : "forbidden.sticker"
+    },
+    {
+      "filename" : "frame.sticker"
+    },
+    {
+      "filename" : "gay.sticker"
+    },
+    {
+      "filename" : "gift-1.sticker"
+    },
+    {
+      "filename" : "gift.sticker"
+    },
+    {
+      "filename" : "greeting-card.sticker"
+    },
+    {
+      "filename" : "cake.sticker"
+    },
+    {
+      "filename" : "heart-1.sticker"
+    },
+    {
+      "filename" : "heart-2.sticker"
+    },
+    {
+      "filename" : "heart-3.sticker"
+    },
+    {
+      "filename" : "heart-4.sticker"
+    },
+    {
+      "filename" : "heart-5.sticker"
+    },
+    {
+      "filename" : "heart-6.sticker"
+    },
+    {
+      "filename" : "heart-7.sticker"
+    },
+    {
+      "filename" : "heart-8.sticker"
+    },
+    {
+      "filename" : "cookie.sticker"
+    },
+    {
+      "filename" : "heart-9.sticker"
+    },
+    {
+      "filename" : "heart-10.sticker"
+    },
+    {
+      "filename" : "heart-11.sticker"
+    },
+    {
+      "filename" : "heart-lock.sticker"
+    },
+    {
+      "filename" : "heart-wings.sticker"
+    },
+    {
+      "filename" : "candle.sticker"
+    },
+    {
+      "filename" : "heart.sticker"
+    },
+    {
+      "filename" : "heterosexual.sticker"
+    },
+    {
+      "filename" : "chocolate.sticker"
+    },
+    {
+      "filename" : "hourglass.sticker"
+    },
+    {
+      "filename" : "house.sticker"
+    },
+    {
+      "filename" : "key.sticker"
+    },
+    {
+      "filename" : "kiss.sticker"
+    },
+    {
+      "filename" : "lesbian.sticker"
+    },
+    {
+      "filename" : "letter-1.sticker"
+    },
+    {
+      "filename" : "letter.sticker"
+    },
+    {
+      "filename" : "light-bulb.sticker"
+    },
+    {
+      "filename" : "lollipop.sticker"
+    },
+    {
+      "filename" : "long-distance.sticker"
+    },
+    {
+      "filename" : "love-1.sticker"
+    },
+    {
+      "filename" : "love-letter-1.sticker"
+    },
+    {
+      "filename" : "love-letter.sticker"
+    },
+    {
+      "filename" : "love.sticker"
+    },
+    {
+      "filename" : "magnifying-glass.sticker"
+    },
+    {
+      "filename" : "male.sticker"
+    },
+    {
+      "filename" : "medicine.sticker"
+    },
+    {
+      "filename" : "music-player.sticker"
+    },
+    {
+      "filename" : "musical-note.sticker"
+    },
+    {
+      "filename" : "necklace.sticker"
+    },
+    {
+      "filename" : "night.sticker"
+    },
+    {
+      "filename" : "panties.sticker"
+    },
+    {
+      "filename" : "perfume.sticker"
+    },
+    {
+      "filename" : "photo-camera.sticker"
+    },
+    {
+      "filename" : "pigeon.sticker"
+    },
+    {
+      "filename" : "polaroid.sticker"
+    },
+    {
+      "filename" : "ring-1.sticker"
+    },
+    {
+      "filename" : "ring.sticker"
+    },
+    {
+      "filename" : "rose.sticker"
+    },
+    {
+      "filename" : "screen.sticker"
+    },
+    {
+      "filename" : "shopping-bag.sticker"
+    },
+    {
+      "filename" : "smartphone.sticker"
+    },
+    {
+      "filename" : "speech-ballon.sticker"
+    },
+    {
+      "filename" : "strawberry.sticker"
+    },
+    {
+      "filename" : "sunglasses.sticker"
+    },
+    {
+      "filename" : "target.sticker"
+    },
+    {
+      "filename" : "teddy-bear.sticker"
+    },
+    {
+      "filename" : "telephone.sticker"
+    },
+    {
+      "filename" : "umbrella.sticker"
+    },
+    {
+      "filename" : "unisex.sticker"
+    },
+    {
+      "filename" : "valentines-day.sticker"
+    },
+    {
+      "filename" : "wedding-rings.sticker"
+    },
+    {
+      "filename" : "ace-of-hearts.sticker"
+    },
+    {
+      "filename" : "yin-yang.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
