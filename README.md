@@ -4,15 +4,16 @@
 [![Version](https://img.shields.io/badge/App version-1.0-blue.svg?style=flat")](https://ialexander.me/2fYVNbX)
 [![AppStore](https://img.shields.io/badge/App Store-Free-brightgreen.svg?style=flat")](https://ialexander.me/2e3ZYpi)
 
-## Saint Valentine's Day - bundle of stickers for iMessage chats, available on <a href="https://ialexander.me/2e3ZYpi">App Store</a>
+## Valentine's Day - bundle of stickers for iMessage chats, available on <a href="https://ialexander.me/2e3ZYpi">App Store</a>
 1. [Description](#description)
 3. [License](#license)
 4. [Contact](#contact)
 
 ##<a name="description"> Description: </a>
 
-Prepare your iPhone to be ready for the best Saint Valentine's Day ever...  
-iOS stickers pack ```Saint Valentine's Day``` is the great bundle of stickers for iMessage, that includes 100 great lovely pictures...
+Prepare your iPhone to be ready for the best Saint Valentine's Day ever...
+ Valentine's Day is the perfect time to express your love to your family and friends in the most extraordinary way. Send this great stickers with Your friends in just few taps!  
+ iOS stickers pack ```Valentine's Day``` is the great bundle of stickers for iMessage, that includes 100 great lovely pictures...
 
 ##<a name="license"> License: </a>
 
