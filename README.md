@@ -24,7 +24,7 @@ Prepare your iPhone to be ready for the best Saint Valentine's Day ever...
 
 ##<a name="license"> License: </a>
 
-```Saint Valentine's Day``` is released under the MIT license. Check the ```LICENSE``` file for details.  
+```Valentine's Day``` is released under the MIT license. Check the ```LICENSE``` file for details.  
 Copyright © 2017 Alexander Iashchuk, <a href="https://iashchuk.com">iashchuk.com</a>.
 
 ##<a name="contact"> Contact: </a>
