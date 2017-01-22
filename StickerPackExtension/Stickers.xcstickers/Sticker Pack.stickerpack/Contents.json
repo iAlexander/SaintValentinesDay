@@ -1,19 +1,46 @@
 {
   "stickers" : [
     {
+      "filename" : "heart-7.sticker"
+    },
+    {
+      "filename" : "teddy-bear.sticker"
+    },
+    {
+      "filename" : "heart-6.sticker"
+    },
+    {
+      "filename" : "hot-air-balloon.sticker"
+    },
+    {
       "filename" : "wine-glass.sticker"
     },
     {
       "filename" : "roses.sticker"
     },
     {
-      "filename" : "balloon.sticker"
+      "filename" : "chemistry.sticker"
+    },
+    {
+      "filename" : "greeting-card.sticker"
     },
     {
       "filename" : "bed.sticker"
     },
     {
+      "filename" : "cloud.sticker"
+    },
+    {
+      "filename" : "drinks.sticker"
+    },
+    {
       "filename" : "birds.sticker"
+    },
+    {
+      "filename" : "dish.sticker"
+    },
+    {
+      "filename" : "balloon.sticker"
     },
     {
       "filename" : "bow-and-arrow.sticker"
@@ -23,9 +50,6 @@
     },
     {
       "filename" : "boxers.sticker"
-    },
-    {
-      "filename" : "hot-air-balloon.sticker"
     },
     {
       "filename" : "brain.sticker"
@@ -49,16 +73,10 @@
       "filename" : "champagne.sticker"
     },
     {
-      "filename" : "chemistry.sticker"
-    },
-    {
       "filename" : "chocolate-box.sticker"
     },
     {
       "filename" : "clapperboard.sticker"
-    },
-    {
-      "filename" : "cloud.sticker"
     },
     {
       "filename" : "coffee.sticker"
@@ -74,12 +92,6 @@
     },
     {
       "filename" : "diary.sticker"
-    },
-    {
-      "filename" : "dish.sticker"
-    },
-    {
-      "filename" : "drinks.sticker"
     },
     {
       "filename" : "earphones.sticker"
@@ -109,9 +121,6 @@
       "filename" : "gift.sticker"
     },
     {
-      "filename" : "greeting-card.sticker"
-    },
-    {
       "filename" : "cake.sticker"
     },
     {
@@ -128,12 +137,6 @@
     },
     {
       "filename" : "heart-5.sticker"
-    },
-    {
-      "filename" : "heart-6.sticker"
-    },
-    {
-      "filename" : "heart-7.sticker"
     },
     {
       "filename" : "heart-8.sticker"
@@ -277,9 +280,6 @@
       "filename" : "target.sticker"
     },
     {
-      "filename" : "teddy-bear.sticker"
-    },
-    {
       "filename" : "telephone.sticker"
     },
     {
@@ -289,9 +289,6 @@
       "filename" : "unisex.sticker"
     },
     {
-      "filename" : "valentines-day.sticker"
-    },
-    {
       "filename" : "wedding-rings.sticker"
     },
     {
@@ -299,6 +296,9 @@
     },
     {
       "filename" : "yin-yang.sticker"
+    },
+    {
+      "filename" : "valentines-day.sticker"
     }
   ],
   "info" : {
