@@ -1,7 +1,7 @@
 [![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat")](https://ialexander.me/2kfkzHa)
 [![Platform](https://img.shields.io/badge/Platform-iOS 10.0 | iMessage-lightgray.svg?style=flat")](https://ialexander.me/2kfkzHa)
 [![Devices](https://img.shields.io/badge/Devices-iPhone | iPad-DAA522.svg?style=flat")](https://ialexander.me/2kfkzHa)
-[![Version](https://img.shields.io/badge/App version-2-blue.svg?style=flat")](https://ialexander.me/2kfkzHa)
+[![Version](https://img.shields.io/badge/App version-2.0-blue.svg?style=flat")](https://ialexander.me/2kfkzHa)
 [![AppStore](https://img.shields.io/badge/App Store-Free-brightgreen.svg?style=flat")](https://ialexander.me/2kfkzHa)
 
 [![Valentine's Day - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/SaintValentinesDay/master/Header.jpg)](https://ialexander.me/2kfkzHa)
