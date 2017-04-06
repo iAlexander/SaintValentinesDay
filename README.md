@@ -1,6 +1,6 @@
 [![Language](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](#)
-[![Platform](https://img.shields.io/badge/Platform-iOS_10.0_|__iMessage-lightgray.svg?style=flat)](#)
-[![Devices](https://img.shields.io/badge/Devices-iPhone_|_iPad-DAA522.svg?style=flat)](#)
+[![Platform](https://img.shields.io/badge/iOS-10.0-lightgray.svg?style=flat)](#)
+[![Devices](https://img.shields.io/badge/Devices-iMessage_on_iPhone_and_iPad-DAA522.svg?style=flat)](#)
 [![Version](https://img.shields.io/badge/App_version-3.0-blue.svg?style=flat)](#)
 [![AppStore](https://img.shields.io/badge/App_Store-Free-brightgreen.svg?style=flat)](https://ialexander.me/2kfkzHa)
 
