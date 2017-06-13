@@ -12,22 +12,22 @@
 3. [License](#license)
 4. [Contact](#contact)
 
-##<a name="description">Description:</a>
+## <a name="description">Description:</a>
 
 Prepare your iPhone to be ready for the best Saint Valentine's Day ever...
  Valentine's Day is the perfect time to express your love to your family and friends in the most extraordinary way. Send this great stickers with Your friends in just few taps!  
  iOS stickers pack ```Valentine's Day``` is the great bundle of stickers for iMessage, that includes more than 100 lovely and perfecly crafted vector images...
 
-##<a name="screenshots">Screenshots:</a>
+## <a name="screenshots">Screenshots:</a>
 
 [![Valentine's Day stickers - bundle of stickers for iMessage chats](https://raw.githubusercontent.com/iAlexander/SaintValentinesDay/master/Screenshots.jpg)](https://ialexander.me/2kfkzHa)
 
-##<a name="license">License:</a>
+## <a name="license">License:</a>
 
 ```Valentine's Day``` is released under the MIT license. Check the ```LICENSE``` file for details.  
 Copyright © 2017 <a href="https://iashchuk.com">Alexander Iashchuk</a>.
 
-##<a name="contact">Contact:</a>
+## <a name="contact">Contact:</a>
 
 You can read, follow or drop me a line on my personal Twitter account - [@iAlexander13](https://twitter.com/iAlexander13).  
 If you find any issues on the project, you can open a ticket.  
